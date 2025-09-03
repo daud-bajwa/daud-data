@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm daud bajwa</h1>
+<h1 align="center">Hi 👋, I'm Muhammad daud </h1>
 <h3 align="center">A passionate Data Analyst from Pakistan, turning data into smart decisions with Python, Excel, SQL & Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daud-bajwa&label=Profile%20views&color=0e75b6&style=flat" alt="daud-bajwa" /> </p>
